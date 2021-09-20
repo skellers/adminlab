@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:RJnnV3_5RbClHfX93ZYmlw
+url: https://github.com/skellers/adminlab
+urlType: REPO
+username: git
